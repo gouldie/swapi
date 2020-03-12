@@ -1,0 +1,1 @@
+export default {"Climate":"temperate","Population":2000000000,"Films":[{"Title":"Revenge of the Sith","Director":"George Lucas","ReleaseDate":"2005-05-19T00:00:00.000Z"},{"Title":"A New Hope","Director":"George Lucas","ReleaseDate":"1977-05-25T00:00:00.000Z"}]}
